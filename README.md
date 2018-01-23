@@ -9,4 +9,4 @@
 - sudo pip install pefile
 
 ## USAGE
-- python pe_viewer.py <<PE File>>
+- python pe_viewer.py <pre><PE File></pre>
