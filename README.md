@@ -1,12 +1,12 @@
 # PE Viewer
-'''
-> Requirements
-  > Python 2.x
-  > pefile module
-'''
 
-'''
-> Usage
-  > pip install pefile
-  > python pe_viewer.py [PE File]
-'''
+## INSTALL
+**준비물**
+- python 2.x
+- pefile module
+
+**설치법**
+- sudo pip install pefile
+
+## USAGE
+- python pe_viewer.py <PE File>
